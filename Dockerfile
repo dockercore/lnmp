@@ -1,5 +1,5 @@
 FROM tutum/centos:centos6
-MAINTAINER San
+MAINTAINER 790162025@qq.com
 
 # centos
 RUN yum -y install wget 
